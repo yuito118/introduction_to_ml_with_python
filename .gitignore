@@ -2,3 +2,5 @@
 *.swp
 .ipynb_checkpoints/
 cache_folder/
+.DS_Store
+data/aclImdb
